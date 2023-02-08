@@ -11,3 +11,5 @@
 - I have a lot of projects, my main one being [Yunranohi](http://yunranohi.rf.gd), a website with games I made !
 - I also have a Discord bot, [Tokinotsuki](http://tokinotsuki.rf.gd) ! It's a multifunction bot with an economy system :3
 - I also have some API on my [Github Pages](https://magictendo.github.io/GithubPages/) !
+
+![Logo Yunranohi](https://raw.githubusercontent.com/MagicTendo/MagicTendo/main/Banner.png)
