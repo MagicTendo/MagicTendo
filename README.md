@@ -21,7 +21,7 @@
 - Finally, I have created three fonts, [Yunranofont](http://bakataida.rf.gd/res/Yunranofont.ttf), [Arckotalani](http://bakataida.rf.gd/res/Arckotalani.ttf) and [BakaTaida's Writting](http://bakataida.rf.gd/res/BakaTaida's%20Writting.ttf), as well as some [custom cursors](http://bakataida.rf.gd/res/YunranohiCursors.zip) for Windows in the theme of Yunranohi !
 
 
-### I have made way more things, but these are my main projects and side projects ;3
+### I have made a lot more, but these are my main projects and side projects ;3
 
 
 <a href="http://yunranohi.rf.gd" target="_blank"><img src="https://raw.githubusercontent.com/MagicTendo/HTTPS-IMG/main/Yunranohi.gif" width="220"></a>
