@@ -24,6 +24,4 @@
 ### I have made a lot more, but these are my main projects and side projects ;3
 
 
-<a href="http://yunranohi.rf.gd" target="_blank"><img src="https://raw.githubusercontent.com/MagicTendo/HTTPS-IMG/main/Yunranohi.gif" width="220"></a>
-<a href="http://bakataida.rf.gd" target="_blank"><img src="https://raw.githubusercontent.com/MagicTendo/HTTPS-IMG/main/BakaTaida.gif" width="220"></a>
-<a href="http://ytpmv.rf.gd" target="_blank"><img src="https://raw.githubusercontent.com/MagicTendo/HTTPS-IMG/main/YTPMV.gif" width="220"></a>
+<a href="http://bakataida.rf.gd" target="_blank"><img src="[https://raw.githubusercontent.com/MagicTendo/HTTPS-IMG/main/Yunranohi.gif](https://raw.githubusercontent.com/MagicTendo/HTTPS-IMG/main/BakaTaida.png)https://raw.githubusercontent.com/MagicTendo/HTTPS-IMG/main/BakaTaida.png"></a>
