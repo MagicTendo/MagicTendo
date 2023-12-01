@@ -23,4 +23,4 @@
 
 ### I have made a lot more, but these are my main projects and side projects ;3
 
-![BakaTaida's Logo](https://raw.githubusercontent.com/MagicTendo/HTTPS-IMG/main/BakaTaida.png)
+[![BakaTaida's Logo](https://raw.githubusercontent.com/MagicTendo/HTTPS-IMG/main/BakaTaida.png)](http://bakataida.rf.gd)
