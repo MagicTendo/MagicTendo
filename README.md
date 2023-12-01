@@ -23,5 +23,4 @@
 
 ### I have made a lot more, but these are my main projects and side projects ;3
 
-
-<a href="http://bakataida.rf.gd" target="_blank"><img src="[https://raw.githubusercontent.com/MagicTendo/HTTPS-IMG/main/Yunranohi.gif](https://raw.githubusercontent.com/MagicTendo/HTTPS-IMG/main/BakaTaida.png)https://raw.githubusercontent.com/MagicTendo/HTTPS-IMG/main/BakaTaida.png"></a>
+![BakaTaida's Logo](https://raw.githubusercontent.com/MagicTendo/HTTPS-IMG/main/BakaTaida.png)
