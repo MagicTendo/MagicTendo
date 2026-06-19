@@ -28,7 +28,7 @@
 
 ### ✨ Highlights of My Biggest and Favourite Projects!
 
-- 🎴 **[Yunayunori](https://yunayuonori.rf.gd)** is a collection of projects related to a fictional universe I created. It's not always code related, but I still wanted to mention it.
+- 🎴 **[Yunayunori](https://yunranohi.rf.gd)** (outdated website) is a collection of projects related to a fictional universe I created. It's not always code related, but I still wanted to mention it.
 - 🍊 **[Tokinotsuki Bot](https://github.com/MagicTendo/Tokinotsuki)** is a very versatile Discord bot. His main objective is to avoid users to have too many bots on their server. It also has a unique economic system!
 - 🎼 **[YTPMV guessr](https://github.com/MagicTendo/YTPMV-guessr)** is my most recent project! This web game plays a random YTPMV, and the goal is to find the sources and songs composing it.
 
